@@ -1,0 +1,1 @@
+The project we did on the DOM lessons we taught in the course. With this project, I learned how to increase and decrease products, delete products, and apply a discount on a certain amount. 
